@@ -1,0 +1,1 @@
+view.setCursor(Cursor.getDefaultCursor());
